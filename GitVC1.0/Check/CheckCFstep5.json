@@ -1,0 +1,12 @@
+{
+  "answer": [
+    {
+      "command":"echo '*.tmp' >.gitignore"
+    },{
+      "command":"git add.gitignore"
+    },
+    {
+      "command": "git commit "
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "Scenarios":
+  [
+    {
+      "title":"Committing Files",
+      "ref":"Sample/Scenarios/CommittingFiles.json"
+    },
+    {
+      "title":"Committing Changes",
+      "ref":"Sample/Scenarios/CommittingChanges.json"
+    },
+    {
+      "title":"Using Branches",
+      "ref":"Sample/Scenarios/UsingBranches.json"
+    }
+  ]
+}

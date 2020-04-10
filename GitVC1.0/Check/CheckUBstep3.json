@@ -1,0 +1,9 @@
+{
+  "answer": [
+    {
+      "command":"git checkout master"
+    },{
+      "command":"git merge my_branch"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "Description": "GitVC/Descriptions/DescriptionCC.md",
+  "Step":
+  [
+    {
+      "command": "GitVC/Steps/CCCommandStep1.md",
+      "check": "GitVC/Check/CheckCCstep1.json"
+    },
+    {
+      "command": "GitVC/Steps/CCCommandStep2.md",
+      "check": "GitVC/Check/CheckCCstep2.json"
+    },
+    {
+      "command": "GitVC/Steps/CCCommandStep3.md",
+      "check": "GitVC/Check/CheckCCstep3.json"
+    }
+  ]
+
+}

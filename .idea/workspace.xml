@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34bad5d0-a072-435a-85b2-ec90bf4f65e8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/GitVC1.0/Scenarios/CommittingChanges.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GitVC1.0/Scenarios/CommittingFiles.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GitVC1.0/Scenarios/UsingBranches.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitVC/Check/Check.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +69,7 @@
       <workItem from="1584528377123" duration="739000" />
       <workItem from="1586253651141" duration="747000" />
       <workItem from="1586277545716" duration="7000" />
-      <workItem from="1586515219303" duration="7965000" />
+      <workItem from="1586515219303" duration="8640000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1583586452415</created>
@@ -118,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586525733341</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add new">
+      <created>1586525990605</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1586525990605</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,18 +148,18 @@
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="414" y="147" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.689@0.0.1280.689" timestamp="1586522869641" />
-    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1586525732957">
+    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1586525990232">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.689@0.0.1280.689" timestamp="1586525732957" />
+    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.689@0.0.1280.689" timestamp="1586525990232" />
     <state x="421" y="100" key="FileChooserDialogImpl" timestamp="1586519517322">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="421" y="100" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1586519517322" />
-    <state x="233" y="78" key="Vcs.Push.Dialog.v2" timestamp="1586525738958">
+    <state x="233" y="78" key="Vcs.Push.Dialog.v2" timestamp="1586525999692">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="233" y="78" key="Vcs.Push.Dialog.v2/0.0.1280.689@0.0.1280.689" timestamp="1586525738958" />
+    <state x="233" y="78" key="Vcs.Push.Dialog.v2/0.0.1280.689@0.0.1280.689" timestamp="1586525999692" />
     <state x="91" y="0" key="new project wizard" timestamp="1586519255859">
       <screen x="0" y="0" width="1280" height="689" />
     </state>

@@ -1,0 +1,27 @@
+{
+  "Description": "GitVC/Descriptions/DescriptionCF.md",
+  "Step":
+  [
+    {
+      "command": "GitVC/Steps/CFCommandStep1.md",
+      "check": "GitVC/Check/CheckCFstep1.json"
+    },
+    {
+      "command": "GitVC/Steps/CFCommandStep2.md",
+      "check": "GitVC/Check/CheckCFstep2.json"
+    },
+    {
+      "command": "GitVC/Steps/CFCommandStep3.md",
+      "check": "GitVC/Check/CheckCFstep3.json"
+    },
+    {
+      "command": "GitVC/Steps/CFCommandStep4.md",
+      "check": "GitVC/Check/CheckCFstep4.json"
+    },
+    {
+      "command": "GitVC/Steps/CFCommandStep5.md",
+      "check": "GitVC/Check/CheckCFstep5.json"
+    }
+  ]
+
+}
