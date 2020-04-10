@@ -1,0 +1,1 @@
+{"descriptionOfStep":"# * Step 2 *\n## Git Log\n\nLearning Team:\n* `` git log `` allows you to view the repository history and commit log.\n\n\n> The log output format is very flexible. For example, to output each commit to one\nthe line uses the command `` git log --pretty = format: \"% h% an% ar -% s\" ``.\n\n#The task\nview storage history"}

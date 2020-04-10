@@ -1,0 +1,1 @@
+{"descriptionOfStep":"# * Step 3 *\n## Merge with the Master\nTo combine with the wizard, you need to know these commands:\n* `` `git checkout master``` will extract the target branch\n* `` git merge <name_branch> `` will merge commits from branches\nA task\n====\nMerge the commits in your new branch back to the master."}
