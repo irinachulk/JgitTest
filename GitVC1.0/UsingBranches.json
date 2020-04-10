@@ -1,0 +1,23 @@
+{
+  "Description": "GitVC/Descriptions/DescriptionUB.md",
+  "Step":
+  [
+    {
+      "command": "GitVC/Steps/UBCommandStep1.md",
+      "check": "GitVC/Check/CheckUBstep1.json"
+    },
+    {
+      "command": "GitVC/Steps/UBCommandStep2.md",
+      "check": "GitVC/Check/CheckUBstep2.json"
+    },
+    {
+      "command": "GitVC/Steps/UBCommandStep3.md",
+      "check": "GitVC/Check/CheckUBstep3.json"
+    },
+    {
+      "command": "GitVC/Steps/UBCommandStep4.md",
+      "check": "GitVC/Check/CheckUBstep4.json"
+    }
+  ]
+
+}
