@@ -2,57 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34bad5d0-a072-435a-85b2-ec90bf4f65e8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/GitVC/Check/Check.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GitVC/Check/first/CheckCCstep1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GitVC/Check/first/CheckCCstep2.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GitVC/Check/first/CheckCCstep3.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GitVC/Check/second/CheckCFstep1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GitVC/Check/second/CheckCFstep2.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GitVC/Check/second/CheckCFstep3.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GitVC/Check/second/CheckCFstep4.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GitVC/Check/second/CheckCFstep5.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GitVC/Check/third/CheckUBstep1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GitVC/Check/third/CheckUBstep2.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GitVC/Check/third/CheckUBstep3.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GitVC/Check/third/CheckUBstep4.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GitVC/Descriptions/DescriptionCC.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GitVC/Descriptions/DescriptionCF.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GitVC/Descriptions/DescriptionCourse.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GitVC/Descriptions/DescriptionUB.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GitVC/Environment/Environment.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GitVC/Scenarios/CommittingChanges.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GitVC/Scenarios/CommittingFiles.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GitVC/Scenarios/UsingBranches.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GitVC/Steps/CCCommandStep1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GitVC/Steps/CCCommandStep2.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GitVC/Steps/CCCommandStep3.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GitVC/Steps/CFCommandStep1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GitVC/Steps/CFCommandStep2.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GitVC/Steps/CFCommandStep3.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GitVC/Steps/CFCommandStep4.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GitVC/Steps/CFCommandStep5.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GitVC/Steps/UBCommandStep1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GitVC/Steps/UBCommandStep2.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GitVC/Steps/UBCommandStep3.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GitVC/Steps/UBCommandStep4.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GitVC1.0/Descriptions/DescriptionCC.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GitVC1.0/Descriptions/DescriptionCF.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GitVC1.0/Descriptions/DescriptionCourse.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GitVC1.0/Descriptions/DescriptionUB.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GitVC1.0/Environment/Environment.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GitVC1.0/Steps/CCCommandStep1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GitVC1.0/Steps/CCCommandStep2.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GitVC1.0/Steps/CCCommandStep3.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GitVC1.0/Steps/CFCommandStep1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GitVC1.0/Steps/CFCommandStep2.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GitVC1.0/Steps/CFCommandStep3.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GitVC1.0/Steps/CFCommandStep4.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GitVC1.0/Steps/CFCommandStep5.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GitVC1.0/Steps/UBCommandStep1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GitVC1.0/Steps/UBCommandStep2.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GitVC1.0/Steps/UBCommandStep3.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GitVC1.0/Steps/UBCommandStep4.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GitVC/Check/Check.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +67,7 @@
       <workItem from="1584528377123" duration="739000" />
       <workItem from="1586253651141" duration="747000" />
       <workItem from="1586277545716" duration="7000" />
-      <workItem from="1586515219303" duration="7699000" />
+      <workItem from="1586515219303" duration="7965000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1583586452415</created>
@@ -160,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586515277613</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add new">
+      <created>1586525733341</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1586525733341</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -169,7 +127,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
     <MESSAGE value="2" />
-    <option name="LAST_COMMIT_MESSAGE" value="2" />
+    <MESSAGE value="add new" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new" />
   </component>
   <component name="WindowStateProjectService">
     <state x="233" y="3" key="#Project_Structure" timestamp="1583997220969">
@@ -180,18 +139,18 @@
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="414" y="147" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.689@0.0.1280.689" timestamp="1586522869641" />
-    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1586515276943">
+    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1586525732957">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.689@0.0.1280.689" timestamp="1586515276943" />
+    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.689@0.0.1280.689" timestamp="1586525732957" />
     <state x="421" y="100" key="FileChooserDialogImpl" timestamp="1586519517322">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="421" y="100" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1586519517322" />
-    <state x="233" y="78" key="Vcs.Push.Dialog.v2" timestamp="1586515289104">
+    <state x="233" y="78" key="Vcs.Push.Dialog.v2" timestamp="1586525738958">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="233" y="78" key="Vcs.Push.Dialog.v2/0.0.1280.689@0.0.1280.689" timestamp="1586515289104" />
+    <state x="233" y="78" key="Vcs.Push.Dialog.v2/0.0.1280.689@0.0.1280.689" timestamp="1586525738958" />
     <state x="91" y="0" key="new project wizard" timestamp="1586519255859">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
