@@ -1,0 +1,4 @@
+{
+  "checkName":"CheckGitStatus",
+  "parameters":["home/tutorial/proj"]
+}

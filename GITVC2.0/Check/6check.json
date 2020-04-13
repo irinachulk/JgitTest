@@ -1,0 +1,4 @@
+{
+  "checkName":"CheckGitlog",
+  "parameters":["home/tutorial/proj","hello.java"]
+}

@@ -1,7 +1,0 @@
-{
-  "answer": [
-    {
-      "command":"git branch -d my_branch"
-    }
-  ]
-}

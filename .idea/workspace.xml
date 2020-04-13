@@ -2,12 +2,56 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34bad5d0-a072-435a-85b2-ec90bf4f65e8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/GITVC2.0/Check/10check.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GITVC2.0/Check/11check.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GITVC2.0/Check/1check.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GITVC2.0/Check/2check.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GITVC2.0/Check/3check.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GITVC2.0/Check/4check.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GITVC2.0/Check/5check.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GITVC2.0/Check/6check.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GITVC2.0/Check/7check.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GITVC2.0/Check/8check.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GITVC2.0/Check/9check.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GITVC2.0/Course/AboutCourse.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GITVC2.0/Descriptions/DescriptionCourse.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GITVC2.0/Environment/Environment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GITVC2.0/Steps/10step.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GITVC2.0/Steps/11step.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GITVC2.0/Steps/1step.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GITVC2.0/Steps/2step.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GITVC2.0/Steps/3step.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GITVC2.0/Steps/4step.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GITVC2.0/Steps/5step.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GITVC2.0/Steps/6step.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GITVC2.0/Steps/7step.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GITVC2.0/Steps/8step.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GITVC2.0/Steps/9step.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GitVC1.0/Check/3check.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GitVC1.0/Check/6check.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GitVC1.0/Check/Check.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GitVC1.0/Check/CheckCCstep1.json" beforeDir="false" afterPath="$PROJECT_DIR$/GitVC1.0/Check/5check.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GitVC1.0/Check/CheckCCstep2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GitVC1.0/Check/CheckCCstep3.json" beforeDir="false" afterPath="$PROJECT_DIR$/GitVC1.0/Check/7check.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GitVC1.0/Check/CheckCFstep1.json" beforeDir="false" afterPath="$PROJECT_DIR$/GitVC1.0/Check/1check.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GitVC1.0/Check/CheckCFstep2.json" beforeDir="false" afterPath="$PROJECT_DIR$/GitVC1.0/Check/2check.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GitVC1.0/Check/CheckCFstep3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GitVC1.0/Check/CheckCFstep4.json" beforeDir="false" afterPath="$PROJECT_DIR$/GitVC1.0/Check/4check.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GitVC1.0/Check/CheckCFstep5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GitVC1.0/Check/CheckUBstep1.json" beforeDir="false" afterPath="$PROJECT_DIR$/GitVC1.0/Check/8check.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GitVC1.0/Check/CheckUBstep2.json" beforeDir="false" afterPath="$PROJECT_DIR$/GitVC1.0/Check/9check.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GitVC1.0/Check/CheckUBstep3.json" beforeDir="false" afterPath="$PROJECT_DIR$/GitVC1.0/Check/10check.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GitVC1.0/Check/CheckUBstep4.json" beforeDir="false" afterPath="$PROJECT_DIR$/GitVC1.0/Check/11check.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GitVC1.0/Descriptions/DescriptionCourse.json" beforeDir="false" afterPath="$PROJECT_DIR$/GitVC1.0/Descriptions/DescriptionCourse.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -16,6 +60,9 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1YnlbcMv2qQnZcEDq8yWhK7CcUj" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -29,24 +76,25 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/GitVC1.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/GITVC2.0" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Al_project\Jgit_gitHub\GitVC1.0" />
-      <recent name="D:\Al_project\Jgit_gitHub\GitVC1.0\Descriptions" />
-      <recent name="D:\Al_project\Jgit_gitHub\GitVC" />
-      <recent name="D:\Al_project\Jgit_gitHub" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Al_project\Jgit_gitHub\GitVC1.0" />
       <recent name="D:\Al_project\Jgit_gitHub\GitVC\Steps" />
       <recent name="D:\Al_project\Jgit_gitHub\GitVC\Check\third" />
       <recent name="D:\Al_project\Jgit_gitHub\GitVC\Check\second" />
       <recent name="D:\Al_project\Jgit_gitHub\GitVC\Check\first" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Al_project\Jgit_gitHub\GITVC2.0" />
+      <recent name="D:\Al_project\Jgit_gitHub\GITVC2.0\Descriptions" />
+      <recent name="D:\Al_project\Jgit_gitHub\GitVC1.0" />
+      <recent name="D:\Al_project\Jgit_gitHub\GitVC1.0\Descriptions" />
+      <recent name="D:\Al_project\Jgit_gitHub\GitVC" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -66,7 +114,9 @@
       <workItem from="1584528377123" duration="739000" />
       <workItem from="1586253651141" duration="747000" />
       <workItem from="1586277545716" duration="7000" />
-      <workItem from="1586515219303" duration="10876000" />
+      <workItem from="1586515219303" duration="11837000" />
+      <workItem from="1586701924610" duration="13000" />
+      <workItem from="1586783237573" duration="4343000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1583586452415</created>
@@ -138,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586531068418</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="add new">
+      <created>1586539860470</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1586539860470</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,21 +216,21 @@
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="414" y="147" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.689@0.0.1280.689" timestamp="1586522869641" />
-    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1586531068033">
+    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1586539859711">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.689@0.0.1280.689" timestamp="1586531068033" />
-    <state x="421" y="100" key="FileChooserDialogImpl" timestamp="1586519517322">
+    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.689@0.0.1280.689" timestamp="1586539859711" />
+    <state x="421" y="100" key="FileChooserDialogImpl" timestamp="1586785065327">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="421" y="100" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1586519517322" />
-    <state x="233" y="78" key="Vcs.Push.Dialog.v2" timestamp="1586531075382">
+    <state x="421" y="100" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1586785065327" />
+    <state x="233" y="78" key="Vcs.Push.Dialog.v2" timestamp="1586539866890">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="233" y="78" key="Vcs.Push.Dialog.v2/0.0.1280.689@0.0.1280.689" timestamp="1586531075382" />
-    <state x="91" y="0" key="new project wizard" timestamp="1586519255859">
+    <state x="233" y="78" key="Vcs.Push.Dialog.v2/0.0.1280.689@0.0.1280.689" timestamp="1586539866890" />
+    <state x="91" y="0" key="new project wizard" timestamp="1586701479070">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="91" y="0" key="new project wizard/0.0.1280.689@0.0.1280.689" timestamp="1586519255859" />
+    <state x="91" y="0" key="new project wizard/0.0.1280.689@0.0.1280.689" timestamp="1586701479070" />
   </component>
 </project>
