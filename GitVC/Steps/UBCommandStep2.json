@@ -1,1 +1,0 @@
-{"descriptionOfStep":"# * Step 2 *\n## List of branches\n* The `` git branch`` command allows you to view all the branches.\n\nThere are also additional arguments:\n* -a remote branches will be included\n* -v will include a HEAD commit message for the branch\n\nA task\n===\nView all branches"}

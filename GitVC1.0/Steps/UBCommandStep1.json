@@ -1,3 +1,0 @@
-{"descriptionOfStep": "\n# *Step 1*\n## Git Branch\nBranches are created from another branch, usually master.\nLet's create our branch:\n* The `` git branch <new branch name> <starting branch> '' command takes an existing branch and creates a separate branch for work.\nAt this point, both branches are identical.\n\n* The command `` `git checkout <new branch name>` `'' is used to switch to the branch\n\nA task\n====\nCreate a new branch called \"my_branch\" and then switch to it"}
-
-

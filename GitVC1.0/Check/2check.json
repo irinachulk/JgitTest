@@ -1,4 +1,0 @@
-{
-  "checkName":"CheckGitAdd",
-  "parameters":["home/tutorial/proj","hello-world.java"]
-}

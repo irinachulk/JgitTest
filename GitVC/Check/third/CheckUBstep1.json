@@ -1,9 +1,0 @@
-{
-  "answer": [
-    {
-      "command":"git branch my_branch master"
-    },{
-      "command":"git checkout my_branch"
-    }
-  ]
-}

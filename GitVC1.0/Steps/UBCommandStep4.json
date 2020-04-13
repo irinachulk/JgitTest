@@ -1,3 +1,0 @@
-{"descriptionOfStep":"# * Step 4 *\n## Clearing a branch\nCleaning branches is important to eliminate noise and confusion.\nSo how do you delete a branch?\nwe need a command:\n* `` git branch -d <branch_name> ``\n\nA task\n====\nSince we merged with the master in the previous step, you need to delete a new branch."}
-
-

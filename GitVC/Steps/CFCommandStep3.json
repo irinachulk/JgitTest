@@ -1,4 +1,0 @@
-{"descriptionOfStep":"# ** _ Step 3 _ **\n## Git Status\nWhen a directory is part of a repository, it is called a working directory.\nThe working directory contains the latest downloaded version from the repository, along with any changes that have yet to be committed.\nWhen you are working on a project, all changes are made to this working directory.\n\nTo see the result of the previous step, try the command:\n`` `bash\n git status\n`` ``\n[! NOTE]\n> \\\nThe output of this command is called \"working tree status\"."}
-
-
-
